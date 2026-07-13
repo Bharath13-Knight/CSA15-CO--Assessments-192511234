@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Name:** Bharath J
-- **Register Number:** [Your Register Number]
+- **Register Number:** 192511234
 - **Course Code:** CSA15
 - **Course:** Cloud Computing and Big Data Analytics
 - **Assessment:** CO1 AT2
